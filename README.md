@@ -18,11 +18,56 @@ Data Merging: Merged datasets on common fields to ensure data integrity and cons
 
 - **Project objective:** 
 
-    **1.** Create a _[Store performance view](https://github.com/Sanket-K4nse/Buisness_Insights_360/blob/main/Finance%20View.pdf)_ 
+    **1.** Create a _[Store performance view](https://github.com/Sanket-K4nse/Promotional-Campaign-Analysis/blob/main/Store%20performance%20analysis.pdf)_ 
 
 
-- **Purpose of Finance analytics:** The purpose of a finance report is to provide a comprehensive and accurate representation of an organization's financial performance and position over a specific period. Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of store performance analytics:** To assess the operational efficiency and effectiveness of each store.
 
-- **Importance of analyzing Finance data:** Ensures transparency by providing stakeholders with accurate financial information. Holds management accountable for the financial outcomes of their decisions and strategies. Track key performance indicators (KPIs).
+- **Importance of analyzing Finance data:** Enables identification of top-performing and underperforming stores to drive strategic improvements.
 
-- **Role of reports:** Used by management to monitor ongoing financial activities, control costs, and ensure that the organization is operating efficiently. Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Role of reports:** Provides actionable insights for optimizing store operations, improving customer satisfaction, and increasing profitability.
+
+
+## Promotion type analysis :
+
+
+- **Project objective:** 
+
+    **1.** Create a _[Promotion analysis view](https://github.com/Sanket-K4nse/Promotional-Campaign-Analysis/blob/main/Promotion%20type%20analysis.pdf)_ 
+
+
+- **Purpose of promotion type analytics:** To evaluate the impact and success of festive promotional campaigns.
+
+- **Importance of analyzing data:** Helps in understanding customer response and sales uplift during promotional periods.
+
+- **Role of reports:** Informs future promotional strategies and optimizes resource allocation for maximum return on investment.
+
+
+## Product and category analysis :
+
+
+- **Project objective:** 
+
+    **1.** Create a _[Product analysis view](https://github.com/Sanket-K4nse/Promotional-Campaign-Analysis/blob/main/Product%20analysis.pdf)_ 
+
+
+- **Purpose of product analytics:** To assess the performance of individual products in the store.
+
+- **Importance of analyzing data:**  Identifies best-selling and underperforming products to inform inventory and sales strategies.
+
+- **Role of reports:** Guides decision-making on product assortment, pricing, and marketing efforts to enhance profitability.
+
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
